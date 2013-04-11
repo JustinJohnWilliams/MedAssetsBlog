@@ -1,0 +1,10 @@
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\MedAssetsBlog.Tests.dll.config
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\MedAssetsBlog.Tests.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\MedAssetsBlog.Tests.pdb
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\NSpec.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\MedAssetsBlog.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\bin\Debug\MedAssetsBlog.pdb
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\obj\Debug\MedAssetsBlog.Tests.csprojResolveAssemblyReference.cache
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\obj\Debug\MedAssetsBlog.Tests.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\MedAssetsBlog.Tests\obj\Debug\MedAssetsBlog.Tests.pdb
